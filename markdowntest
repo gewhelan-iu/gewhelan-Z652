@@ -19,40 +19,12 @@ Sed fermentum dui vel enim consectetur malesuada. Sed a mi felis. Curabitur sit 
 #### Tables
 
 ##### Poor Man's Lodgings in Norfolk (Mayhew, 1843)
-
-<table>
-	<tr>
-		<th>&nbsp;</th>
-		<th>Dossing Cribs or Lodging Houses</th>
-		<th>Beds</th>
-		<th>Needys or Nightly Lodgers</th>
-	</tr>
-	<tr>
-		<td>Bury St Edmund's</td>
-		<td>5</td>
-		<td>8</td>
-		<td>128</td>
-	</tr>
-		<tr>
-		<td>Thetford</td>
-		<td>3 </td>
-		<td>6</td>
-		<td>36</td>
-	</tr>
-		<tr>
-		<td>Attleboro'</td>
-		<td>3</td>
-		<td>5</td>
-		<td>20</td>
-	</tr>
-		<tr>
-		<td>Wymondham</td>
-		<td>1</td>
-		<td>11</td>
-		<td>22</td>
-	</tr>		
-</table>
-
+||Dossing Cribs or Lodging Houses|Beds|Needys or Nightly Lodgers|
+|---|---|---|---|
+|Bury St Edmund's|5|8|128|
+|Thetford|3|6|36|
+|Attleboro'|3|5|20|
+|Wymondham|1|11|22|
 #### A quotation about books
 
 This paragraph introduces a quotation:
