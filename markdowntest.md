@@ -61,5 +61,5 @@ Here is the URL to the [Rock Show](https://jawalsh.github.io/rock-show/) Collect
 
 This paragraph introduces an image:
 ![The fifth panel of page 6, from Captain America #193 (January, 1976), edited,
-written, and drawn by Jack Kirby.](path/to/img.jpg)
+written, and drawn by Jack Kirby.](http://www.digitalhumanities.org/dhq/vol/6/1/000117/resources/images/walsh_2012_figure06.jpg)
 
