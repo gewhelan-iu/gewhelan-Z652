@@ -16,6 +16,8 @@ The button labelled "Add file."
 
 **Describe the steps you took to clone your repository on Github Desktop**
 
+After signing in with my GitHub account, I selected the "add existing repository" option and selected my existing repository.
+
 **What is the title of GitHub documentation?**
 
 docs.github.com
@@ -30,17 +32,19 @@ The local repository is stored on my computer. The remote repository is stored o
 
 **What happens when you fetch?** 
 
-Fetch compares the remote and local repositories, and downloads any remote files which have been modified more recently than the local copies, or which are only present on the remote repository.
+Fetch compares the remote and local repositories, and downloads any remote files which have been modified more recently than the local copies, or which are only present on the remote repository. Any changes are not immediately committed.
 
 **What happens when you pull changes/commits?**
 
-Pull compares the remote and local repositories, and downloads any remote files which have been modified more recently than the local copies, or which are only present on the remote repository. The user is not able to review each change before the local repository is overwritten.
+Pull compares the remote and local repositories, and downloads any remote files which have been modified more recently than the local copies, or which are only present on the remote repository. Any changes are immediately committed.
 
 **When working on GitHub Desktop, what order should you generally perform push, pull, and fetch?**
 
+You should first fetch, then pull, then push after you have made your changes.
+
 **What happens when you push commits from your local repository?**
 
-The same process as when you fetch, but in reverse.
+The same process as when you pull, but in reverse.
 
 **What is the URL for the Github glossary?**
 
@@ -81,11 +85,11 @@ For links to a section in the same file, use the link address "#section-title". 
 
 **What are the three possible symbols for indicating an unordered list?**
 
-- + *
+\- + *
 
-**Format the following text into a footnote:**][^1]
+**Format the following text into a footnote:** Alex Wingate went to William and Mary.[^1]
 
-[^1]No text provided.
+[^1]:[William and Mary](https://www.wm.edu/) is a university in Williamsburg, VA founded in 1693.
 
 
 
